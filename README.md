@@ -80,8 +80,11 @@ The Power BI report provides an interactive view of the meteorite landings datas
 ## 📁 Project Structure
 ├── Meteor     # Python analysis notebook
   |── Meteorite_Landing Dataset
+  
   |── metor.ipynb
+  
   |── meteorite_mass_Classify_model
+  
   |── meteorite_mass_Linearmodel
 ├── Meteor Landings Analysis.pbix   # Power BI dashboard (not included here)
 
