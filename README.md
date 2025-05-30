@@ -86,17 +86,17 @@ The Power BI report provides an interactive view of the meteorite landings datas
 ---
 
 ## 🚀 How to Run
-```bash
+
 ### Python:
+```bash
 1. Clone the repo
 2. Install dependencies: `pip install -r requirements.txt`
 3. Run `metor.ipynb` in Jupyter Notebook
-
+```
 ### Power BI:
+```bash
 1. Open `powerbi-dashboard.pbix` in Power BI Desktop
 2. Refresh data source if necessary
-
----
 ```
 ## 👨‍💻 Author
 
