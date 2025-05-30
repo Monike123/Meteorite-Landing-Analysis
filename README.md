@@ -49,7 +49,10 @@ This project explores over 45,000 meteorite landings collected by NASA, combinin
 ---
 
 ## 📈 Power BI Dashboard
-
+```bash
+![image](https://github.com/user-attachments/assets/a3f4dd48-e944-448a-946b-3e3fa2065c60)
+![image](https://github.com/user-attachments/assets/c68dc145-5388-4cfc-84ca-e832ba7ae87a)
+```
 The Power BI report provides an interactive view of the meteorite landings dataset. It includes:
 
 ### ✅ Power BI Visuals:
