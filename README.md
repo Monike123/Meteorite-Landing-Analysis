@@ -76,23 +76,18 @@ The Power BI report provides an interactive view of the meteorite landings datas
 - Simple machine learning models showed promise in classifying fall types and estimating mass based on available features.
 
 ---
-
+```bas
 ## 📁 Project Structure
-├── Meteor     # Python analysis notebook
-  |── Meteorite_Landing Dataset
-  
-  |── metor.ipynb
-  
-  |── meteorite_mass_Classify_model
-  
-  |── meteorite_mass_Linearmodel
-├── Meteor Landings Analysis.pbix   # Power BI dashboard (not included here)
-
-├── README.md # Project documentation
-
-├── Licene
-
----
+├── Meteor/                            # Python analysis notebook and models
+│   ├── Meteorite_Landing_Dataset/    # Dataset folder
+│   │   └── meteorite_landings.csv    # (example dataset file)
+│   ├── meteor.ipynb                  # Main analysis notebook
+│   ├── meteorite_mass_classify_model/  # Classification model files
+│   └── meteorite_mass_linear_model/    # Linear regression model files
+├── Meteor_Landings_Analysis.pbix     # Power BI dashboard file
+├── README.md                         # Project documentation
+├── LICENSE                           # Project license file
+```
 
 ## 🚀 How to Run
 
