@@ -8,7 +8,7 @@ This project explores over 45,000 meteorite landings collected by NASA, combinin
 
 ## 🔗 Dataset Source
 
-[NASA Open Data Portal – Meteorite Landings](https://data.nasa.gov/Space-Science/Meteorite-Landings/gh4g-9sfh/data)
+[NASA Open Data Portal – Meteorite Landings](https://data.nasa.gov/dataset/meteorite-landings)
 
 ---
 
