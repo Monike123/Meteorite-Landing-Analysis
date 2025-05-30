@@ -86,7 +86,7 @@ The Power BI report provides an interactive view of the meteorite landings datas
 ---
 
 ## 🚀 How to Run
-
+```bash
 ### Python:
 1. Clone the repo
 2. Install dependencies: `pip install -r requirements.txt`
@@ -97,7 +97,7 @@ The Power BI report provides an interactive view of the meteorite landings datas
 2. Refresh data source if necessary
 
 ---
-
+```
 ## 👨‍💻 Author
 
 **Your Name** – [Manas Sawant](https://github.com/Monike123)  
