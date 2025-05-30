@@ -1,5 +1,5 @@
-![Firefly 20250530173218](https://github.com/user-attachments/assets/3d2d7dc6-b422-433e-b0ce-f9202ec9b75e)
-![Astronauts Study Glowing Meteorite](https://github.com/user-attachments/assets/8cfb99df-1202-41c8-8a48-3f976f9877c0)
+![Firefly 20250530173218](https://github.com/user-attachments/assets/3d2d7dc6-b422-433e-b0ce-f9202ec9b75e)![Astronauts Study Glowing Meteorite](https://github.com/user-attachments/assets/8cfb99df-1202-41c8-8a48-3f976f9877c0)
+
 
 # ☄️ Meteorite Landings Analysis (NASA Dataset) — Python + Power BI
 
