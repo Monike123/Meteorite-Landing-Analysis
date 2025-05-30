@@ -40,9 +40,11 @@ This project explores over 45,000 meteorite landings collected by NASA, combinin
   - Pairplots to explore multivariate trends
 
 - Hypothesis Testing
-  - # 1) does Meteorites that Fell Have Different Mass From that have Found ?
-  - # 1) does Meteorites that Fell Have Different Mass From that have Found ?
-
+  - #### 1) does Meteorites that Fell Have Different Mass From that have Found ?
+  - There is a difference in mass between 'Fell' and 'Found'.
+  - #### 2)Has the average mass of meteorites changed over decades?
+  - Significant difference in mass distribution across decades
+  
 - Feature engineering
   - Log transformation of mass for skew handling
   - Decade column for time analysis
