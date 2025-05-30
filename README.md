@@ -92,7 +92,8 @@ The Power BI report provides an interactive view of the meteorite landings datas
 │   └── meteorite_mass_linear_model/    # Linear regression model files
 ├── Meteor_Landings_Analysis.pbix     # Power BI dashboard file
 ├── README.md                         # Project documentation
-├── LICENSE                           # Project license file
+├── LICENSE
+├── requirements.txt                           # Project license file
 ```
 
 ## 🚀 How to Run
