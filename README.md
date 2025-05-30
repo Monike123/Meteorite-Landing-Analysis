@@ -1,3 +1,6 @@
+![Firefly 20250530173218](https://github.com/user-attachments/assets/3d2d7dc6-b422-433e-b0ce-f9202ec9b75e)
+
+
 # ☄️ Meteorite Landings Analysis (NASA Dataset) — Python + Power BI
 
 This project explores over 45,000 meteorite landings collected by NASA, combining Python-based data science techniques with Power BI for interactive dashboarding. We deep-dive into mass trends, fall patterns, geographical distribution, and classification modeling to uncover insights hidden in cosmic debris.
@@ -73,8 +76,11 @@ The Power BI report provides an interactive view of the meteorite landings datas
 
 ## 📁 Project Structure
 ├── metor.ipynb # Python analysis notebook
+
 ├── powerbi-dashboard.pbix # Power BI dashboard (not included here)
+
 ├── README.md # Project documentation
+
 ├── Meteorite_Landing Dataset
 
 ---
