@@ -32,16 +32,21 @@ This project explores over 45,000 meteorite landings collected by NASA, combinin
 
 ### ✅ Key Steps:
 - Data loading and cleaning (handling missing values, converting types)
+
 - Exploratory Data Analysis (EDA)
   - Mass vs. Year scatter plot
   - Mass distribution by Fall type
   - Meteorite counts by decade
   - Pairplots to explore multivariate trends
+
 - Hypothesis Testing
-  - Compared masses of “Fell” vs “Found” meteorites using statistical tests
+  - # 1) does Meteorites that Fell Have Different Mass From that have Found ?
+  - # 1) does Meteorites that Fell Have Different Mass From that have Found ?
+
 - Feature engineering
   - Log transformation of mass for skew handling
   - Decade column for time analysis
+
 - Machine Learning
   - **Linear Regression**: Predict meteorite mass based on features
   - **Classification Model**: Predict whether a meteorite was “Found” or “Fell” based on numeric and geographic features
